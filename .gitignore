@@ -1,0 +1,12 @@
+# Cleaned tables are recreated by the notebook
+data/processed/*
+!data/processed/.gitkeep
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# macOS
+.DS_Store
